@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name":"Michael R. Marley",
+    "description":"I write code. Here is sample text I need to write something up for",
+    "image":"profilepic.png",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"I am open to work at the moment. If you would like to get in contact with me feel free to send me a message.",
+    "email": "ssamarley@gmail.com",
+    "phone": "678-656-4945",
+    "github":"https://github.com/crux1",
+    "project":"#",
+    "codepen":"https://codepen.io/crux",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Atlanta",
+      "state":"GA",
+      "zip": "#"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/michael-marley-12496134/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/mrmarley77/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/crux1",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"The Creative Circus",
+        "degree":"Certificate of Completion",
+        "graduated":"April 2007",
+        "description":"I studied Front-End Development"
+      }
+    ],
+    "work":[
+      {
+        "company":"Rooms To Go",
+        "title":"Senior UX Engineer , Senior Front-End Developer ",
+        "years":"09/18 - 07/20",
+        "description":"Technology used: react.js, gatsby, graphQL, Redux, SASS, and jest."
+      },
+      {
+        "company":"The Creative Circus",
+        "title":"Web Development Instructor",
+        "years":"01/18 - 08/19",
+        "description":"Instructor to grad level students for Web Dev 101 and 201. Tought students the basic skill to make a responsive static website."
+      },
+      {
+        "company":"IBM Watson",
+        "title":"Senior Front-End Developer ",
+        "years":"02/17 - 08/18",
+        "description":"Built custom advertisements on weather.com and the weather app that utalized Watson AI api, and weather.com data."
+      },
+      {
+        "company":"CBT News",
+        "title":"Front-End Developer ",
+        "years":"11/15 - 04/16",
+        "description":"Sole developer responsable for building and maintaining the companies 3 websites. All on wordpress"
+      },
+      {
+        "company":"Sharpdot",
+        "title":"Jr. Front-End Developer ",
+        "years":"09/14 - 10/15",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Adobe Photoshop",
+        "level":"80%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Rooms To Go",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"#",
+        "url":"roomstogo.com"
+      },
+      {
+        "title":"Duke University Institute of Brain Sciences",
+        "category":"dibs.duke.edu",
+        "image":"",
+        "url":"dibs.duke.edu"
+      },
+      {
+        "title":"Baby's First Test",
+        "category":"",
+        "image":"",
+        "url":"babysfirsttest.org"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      }
+    ]
+  }
+}
