@@ -14,10 +14,10 @@
       "street":"(Your Street)",
       "city":"Atlanta",
       "state":"GA",
-      "zip": "#"
+      "zip": "30316"
     },
     "website": "",
-    "resumedownload":"",
+    "resumedownload":"michaelmarley.docx",
     "social":[
       {
         "name":"linkedin",
@@ -37,13 +37,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I've built sites using HTML5, CSS3, ES6, React, mySQL, GraphQL, Redux, AWS, Github, photoshop, inDesign, XD, Figma.  ",
     "education":[
       {
         "school":"The Creative Circus",
         "degree":"Certificate of Completion",
-        "graduated":"April 2007",
-        "description":"I studied Front-End Development"
+        "graduated":"Augest 2014",
+        "description":"I studied Front-End Development and web design."
       }
     ],
     "work":[
@@ -97,16 +97,9 @@
       },
       {
         "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
-        "name":"JAVA",
-        "level":"80%"
+        "level":"60%"
       }
+      
     ]
   },
   "portfolio":{
@@ -115,31 +108,31 @@
         "title":"Rooms To Go",
         "category":"My Travel Blog for my post-university travels",
         "image":"#",
-        "url":"roomstogo.com"
+        "url":"https://www.roomstogo.com"
       },
       {
         "title":"Duke University Institute of Brain Sciences",
-        "category":"dibs.duke.edu",
+        "category":"Drupal",
         "image":"dibs.png",
-        "url":"dibs.duke.edu"
+        "url":"https://www.dibs.duke.edu"
       },
       {
         "title":"Baby's First Test",
-        "category":"drupal",
+        "category":"Drupal",
         "image":"bft.png",
-        "url":"babysfirsttest.org"
+        "url":"https://www.babysfirsttest.org"
       },
       {
         "title":"Minerva Beauty",
-        "category":"drupal",
+        "category":"Magento",
         "image":"minerva.png",
-        "url":"minervabeauty.com"
+        "url":"https://www.minervabeauty.com"
       },
       {
-        "title":"",
-        "category":"",
+        "title":"CBTnews",
+        "category":"Wordpress",
         "image":"",
-        "url":""
+        "url":"https://www.cbtnews.com/"
       }
     ]
   }
