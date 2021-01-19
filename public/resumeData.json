@@ -120,20 +120,20 @@
       {
         "title":"Duke University Institute of Brain Sciences",
         "category":"dibs.duke.edu",
-        "image":"",
+        "image":"dibs.png",
         "url":"dibs.duke.edu"
       },
       {
         "title":"Baby's First Test",
-        "category":"",
-        "image":"",
+        "category":"drupal",
+        "image":"bft.png",
         "url":"babysfirsttest.org"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"",
-        "url":""
+        "title":"Minerva Beauty",
+        "category":"drupal",
+        "image":"minerva.png",
+        "url":"minervabeauty.com"
       },
       {
         "title":"",
